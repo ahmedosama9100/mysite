@@ -1,0 +1,2 @@
+Headings => Noto Serif
+Regular text => Montserrat

@@ -1,0 +1,5 @@
+link => https://colorhunt.co/palette/220248
+
+background => #e8e8e8
+Navigation bar => #30475e
+font color => #222831
