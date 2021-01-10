@@ -1,4 +1,4 @@
 HTML 
-SASS 
+CSS
 Bootstrap
 JS
